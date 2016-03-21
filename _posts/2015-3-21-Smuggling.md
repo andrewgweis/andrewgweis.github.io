@@ -3,6 +3,8 @@ layout: post
 title: Coffee Smuggling in Central America and Mexico
 ---
 
+Read time: 4 minutes
+
 The flow of illicitly traded Central American coffee has reversed. Instead of Mexican and Honduran coffees being smuggled into Guatemala, Guatemalan and Honduran coffees are being smuggled into Mexico. The fundamentals underpinning this story tell us where Central American coffee is headed.
 
 When bought or sold, coffee is quoted basis the “C” futures market[^fn-1] plus or minus some differential. In the past, Guatemalan differentials have been higher than Mexican differentials for similar qualities, hence the traditional flow of smuggled coffee from Mexico to Guatemala. This is no longer the case. Further, the “C” market has been depressed on growing global production. With low basis prices, farmers (an optimistic bunch) either wait for the market to rally or seek higher differentials. This pursuit of higher differentials drives illicit trade. 
