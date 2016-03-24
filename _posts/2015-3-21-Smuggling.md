@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coffee Smuggling into Mexico: Moving Towards Better Coffee
+title: "Coffee Smuggling into Mexico: Moving Towards Better Coffee"
 ---
 
 Read time: 4 minutes
