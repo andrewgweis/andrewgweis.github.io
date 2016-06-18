@@ -11,9 +11,9 @@ In the past, Guatemalan coffees have been more expensive than similar Mexican co
 
 Coffee rust hit some farmers worse than others. Sophisticated farmers may have avoided coffee rust altogether and be enjoying the higher diffs with limited loss in their harvest. Others may be left with no coffee -- and they can’t get paid for coffee that they don’t have, leaving them unable to renovate their farms. So, the “little guy” either migrate to cities (American or Mexican) or receive a helping hand from bigger coffee corporations seeking to establish a better supply chain. These corporations may, for example, sell producers higher quality, rust-resistant plants in exchange for the promise of future coffee. Or, they may help farmers through the certification process, thereby providing some degree of insulation from market forces (more on this later).
 
-![Coffee rust]({{ site.baseurl }}/images/roya1.png "Coffee rust")
+![Coffee rust]({{ site.baseurl }}/images/roya1.PNG "Coffee rust")
 
-![Coffee rust]({{ site.baseurl }}/images/roya2.png "Coffee rust")
+![Coffee rust]({{ site.baseurl }}/images/roya2.PNG "Coffee rust")
 
 With the low grade producers leaving or switching to higher grades, and the high grade producers relatively unharmed, the quality of Mexican coffee will gradually increase. In some parts of the countries, these changes have already happened (ex.: Talquian, Chiapas). Other parts are slower to react (ex.: the Chamula region, also in Chiapas). 
 
